@@ -1,0 +1,7 @@
+name: TestPlugin
+version: 0.0.1
+main: testplugin.App
+description: A test plugin
+author: Feathercrown
+website: none
+api-version: '1.20'
