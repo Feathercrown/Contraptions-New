@@ -1,6 +1,6 @@
-name: TestPlugin
+name: Contraptions
 version: 0.0.1
-main: testplugin.App
+main: contraptions.Contraptions
 description: A test plugin
 author: Feathercrown
 website: none

@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("testplugin.App")
+    mainClass.set("contraptions.Contraptions")
 }
 
 tasks.named<Test>("test") {

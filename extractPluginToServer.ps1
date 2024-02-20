@@ -1,3 +1,3 @@
-Remove-Item -Path './TestPlugin/app/build/distributions/app/' -Recurse
-Expand-Archive -Path './TestPlugin/app/build/distributions/app.zip' -DestinationPath './TestPlugin/app/build/distributions/app/'
-Copy-Item -Path './TestPlugin/app/build/distributions/app/app/lib/app.jar' -Destination './Paper Server/plugins'
+Remove-Item -Path './Contraptions/app/build/distributions/contraptions/' -Recurse
+Expand-Archive -Path './Contraptions/app/build/distributions/contraptions.zip' -DestinationPath './Contraptions/app/build/distributions/contraptions/'
+Copy-Item -Path './Contraptions/app/build/distributions/contraptions/contraptions/lib/contraptions.jar' -Destination './Paper Server/plugins'
