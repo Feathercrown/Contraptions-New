@@ -9,10 +9,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class App extends JavaPlugin implements Listener {
 
-    public String getGreeting() {
-        return "hi";
-    }
-
     @Override
     public void onEnable() {
         Bukkit.getPluginManager().registerEvents(this, this);
